@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ASM"
+    }
+  },
+  "defaultProject": "ASM",
+  "cli": {
+    "analytics": false
+  }
 }
